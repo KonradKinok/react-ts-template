@@ -1,7 +1,9 @@
-import { PixabayApi } from "./components/PixabayApi/PixabayApi";
-
 function App() {
-  return <PixabayApi />;
+  return (
+    <>
+      <h1>React + Vit + TS</h1>
+    </>
+  );
 }
 
 export default App;
