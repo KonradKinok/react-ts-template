@@ -1,7 +1,7 @@
 # goit-react-hw-??
 
 Link do repozytorium:
-https://github.com/KonradKinok/react-vite-template
+https://github.com/KonradKinok/react-ts-template
 
 Link do Vercel:
 https://vercel.com/konradkinoks-projects

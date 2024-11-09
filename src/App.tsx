@@ -1,11 +1,7 @@
+import { PixabayApi } from "./components/PixabayApi/PixabayApi";
+
 function App() {
-  return (
-    <>
-      <div>
-        <h1>Vite + React + Ts</h1>
-      </div>
-    </>
-  );
+  return <PixabayApi />;
 }
 
 export default App;
